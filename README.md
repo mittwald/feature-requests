@@ -12,7 +12,7 @@ An ziemlich viel coolem Kram. 😏 Was das genau heißt, erfahrt ihr in unserer 
 In unserem GitHub-Issue-Tracker unter [https://mitt.link/feature-requests](https://mitt.link/feature-requests) findest du bereits Vorschläge für neue Features. Wichtig: Hier geht es einzig und allein um neue Features, bei Bug-Reports melde dich bitte weiterhin über das Ticketsystem bei unserem Kundenservice.
 
 ### Wie kann ich eine Idee einreichen?
-Vergewissere dich über die Suchfunktion, dass dein Wunsch noch nicht existiert. Anschließend kannst du über den [*New*-Button](https://github.com/mittwald/feature-requests/issues/new) ein neues Issue anlegen. Gib uns gerne alles an Informationen, was uns hilft, deine Anfrage bestmöglich zu verstehen.
+Vergewissere dich über die Suchfunktion, dass dein Wunsch noch nicht existiert. Anschließend kannst du über den [*New*-Button](https://github.com/mittwald/feature-requests/issues/new?assignees=&labels=&projects=&template=feature_request.md) ein neues Issue anlegen. Gib uns gerne alles an Informationen, was uns hilft, deine Anfrage bestmöglich zu verstehen.
 
 ### Wie kann ich eine Idee voten?
 Nutze dafür einfach die GitHub-Reactions, indem du uns einen 👍 auf die erste Nachricht im Issue gibst. Weichen deine konkreten Anforderungen etwas ab, zielen aber auf das gleiche Thema ein, dann ergänze diese gerne über die Kommentarfunktion im Issue.
