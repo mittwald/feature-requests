@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature request 🚀
 about: Teile deine Idee mit uns.
 title: ''
 labels: ''
