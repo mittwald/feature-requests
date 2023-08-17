@@ -5,7 +5,7 @@ Hey du! 👋
 In diesem Repository wollen wir dir als Kunde bzw. Interessent von mittwald die Möglichkeit der Mitgestaltung bieten. Oftmals möchtest du nicht nur wissen woran wir gerade arbeiten, sondern auch, was vielleicht in Zukunft noch so ansteht oder sich von anderen Agenturen so gewünscht wird.
 
 ## Woran arbeitet mittwald aktuell?
-An ziemlich viel coolem Kram. 😏 Was das genau heißt, erfahrt ihr in unserer Roadmap unter [https://mitt.link/roadmap](https://mitt.link/roadmap).
+An ziemlich viel coolem Kram. 😏 Was das genau heißt, erfährst du in unserer Roadmap unter [https://mitt.link/roadmap](https://mitt.link/roadmap).
 
 ## Wo finde ich Feature-Requests?
 
