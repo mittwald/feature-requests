@@ -11,6 +11,7 @@ An ziemlich viel coolem Kram. 😏 Was das genau heißt, erfährst du in unserer
 
 In unserem GitHub-Issue-Tracker unter [https://mitt.link/feature-requests](https://mitt.link/feature-requests) findest du bereits Vorschläge für neue Features.
 \
+\
 Wichtig: Schreibe uns bei Bug-Reports melde dich bitte weiterhin über das Ticketsystem bei unserem Kundenservice.
 
 ### Wie kann ich eine Idee einreichen?
