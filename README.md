@@ -18,7 +18,7 @@ Wichtig: Schreibe uns bei Bug-Reports melde dich bitte weiterhin über das Ticke
 Vergewissere dich über die Suchfunktion, dass dein Wunsch noch nicht existiert. Anschließend kannst du über den [*New*-Button](https://github.com/mittwald/feature-requests/issues/new?assignees=&labels=&projects=&template=feature_request.md) ein neues Issue anlegen. Gib uns alles an Informationen, was uns hilft, den Ursprung deiner Idee bestmöglich zu verstehen.
 
 ### Wie kann ich eine Idee voten?
-Nutze dafür die GitHub-Reactions, indem du uns einen 👍 auf die erste Nachricht im Issue gibst. Weichen deine konkreten Anforderungen etwas ab, zielen aber auf das gleiche Thema ein, kannst du sie über die Kommentarfunktion im Issue ergänzen.
+Nutze dafür die GitHub-Reactions, indem du uns einen 👍 auf die erste Nachricht im Issue gibst. Weichen deine konkreten Anforderungen etwas ab, zahlen aber auf das gleiche Thema ein, kannst du sie über die Kommentarfunktion im Issue ergänzen.
 
 ## Hinweis zum Feature-Tracker
 Unsere Product Owner nutzen den Feature Tracker als Hilfsmittel bei der Konzeptionierung und Priorisierung. Bitte beachte, dass ein Thema nicht zwangsläufig umgesetzt wird, auch wenn es nach ganz oben gevoted wurde. Denn wir arbeiten immer an vielen Themen gleichzeitig, von denen sich manche nicht auf der öffentlichen Roadmap befinden. Aber du kannst sicher sein: Wir hören dich!
