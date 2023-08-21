@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-**Bezieht sich dein Feature-Request auf ein zugrundeliegendes Problem? Bitte beschreibe es uns:**
-Beispiel: Ich muss immer mühselig durch alle Projekte klicken, um eine spezifische Domain zu finden.
+**Welches Problem möchtest du lösen? Wann tritt es auf?**
+Beispiel: Als Entwickler einer Agentur muss ich immer mühselig durch alle Projekte klicken, um eine spezifische Domain zu finden.
 
-**Beschreibe die Lösung(en), die du dir vorstellen könntest:**
+**Welche Lösungsideen hast du?**
 Beispiel: Die Projektsuche könnte auch die Möglichkeit bieten nach einer Domain zu suchen.
 
-**Zusätzliche Informationen (wie z.B. Screenshots):**
+**Hast du zusätzliche Informationen (wie z.B. Screenshots)?**
